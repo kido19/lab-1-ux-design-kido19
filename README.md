@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YNrSAqxZ)
+<img width="36" height="35" alt="image" src="https://github.com/user-attachments/assets/fbf9080e-dc19-4c1f-bd95-a475376e0902" />[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YNrSAqxZ)
 # Lab 1: UX Design - Ethiopian App Case Study
 
 ## 🎯 Objective
@@ -33,8 +33,8 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > Jiji Ethiopia: Buy&Sell Online
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> draw.io
