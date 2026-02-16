@@ -38,3 +38,8 @@ Upload the following files directly to your repository via the browser:
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
 > draw.io
+
+
+Student Information 
+Name:Kidist Kinfe 
+program: software engineering 
